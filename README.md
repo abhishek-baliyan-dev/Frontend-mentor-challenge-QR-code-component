@@ -24,8 +24,8 @@ QR code challenge by Frontend Mentor, Coded by Abhishek Baliyan. In this challen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/abhishek-baliyan-dev/Frontend-mentor-challenge-QR-code-component)
+- Live Site URL: [Live](https://abhishek-baliyan-dev.github.io/Frontend-mentor-challenge-QR-code-component/)
 
 ## My process
 
