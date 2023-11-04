@@ -19,8 +19,8 @@ QR code challenge by Frontend Mentor, Coded by Abhishek Baliyan. In this challen
 
 ### Screenshot
 
-![Desktop View](./screenshot-1.png)
-![Mobile View](./screenshot-2.png)
+![Desktop View](./Screenshot-1.png)
+![Mobile View](./Screenshot-2.png)
 
 ### Links
 
